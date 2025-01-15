@@ -1,4 +1,6 @@
 # Omnivore List Popup Web Extension (Firefox & Chrome)
+> [!WARNING]
+> [IT'S SHUTTING DOWN —> SO I'M TAKING OWNERSHIP]
 
 > [!WARNING]
 > Omnivore is unfortunately [shutting down](https://blog.omnivore.app/p/details-on-omnivore-shutting-down) soon. I am currently looking into other platforms to migrate this extension to (and keep most or ideally all of the current features). Get in touch if you have specific ideas or requests. RIP, Omnivore.
